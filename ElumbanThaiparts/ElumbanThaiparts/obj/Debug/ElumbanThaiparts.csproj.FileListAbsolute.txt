@@ -1,0 +1,16 @@
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\bin\Debug\ElumbanThaiparts.exe.config
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\bin\Debug\ElumbanThaiparts.exe
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\bin\Debug\ElumbanThaiparts.pdb
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\obj\Debug\ElumbanThaiparts.csproj.AssemblyReference.cache
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\obj\Debug\ElumbanThaiparts.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\obj\Debug\ElumbanThaiparts.Dashboard.resources
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\obj\Debug\ElumbanThaiparts.Login.resources
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\obj\Debug\ElumbanThaiparts.Properties.Resources.resources
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\obj\Debug\ElumbanThaiparts.csproj.GenerateResource.cache
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\obj\Debug\ElumbanThaiparts.csproj.CoreCompileInputs.cache
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\obj\Debug\ElumbanThaiparts.exe
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\obj\Debug\ElumbanThaiparts.pdb
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\obj\Debug\ElumbanThaiparts.Item_in.resources
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\obj\Debug\ElumbanThaiparts.Item_out.resources
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\obj\Debug\ElumbanThaiparts.Report.resources
+C:\Users\andrea\source\repos\ElumbanThaiparts\ElumbanThaiparts\obj\Debug\ElumbanThaiparts.Stock.resources
